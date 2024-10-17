@@ -82,8 +82,8 @@ This project demonstrates my expertise in **Power BI** and **DAX** (Data Analysi
 
 The dashboard is powered by a **star schema** data model, ensuring efficient querying and clean relationships:
 - **Fact Table**: `Shipments` contains sales and shipment data, acting as the central hub.
-- **Dimension Tables**: `Salesperson`, `Product`, `Geography`, and `Calendar` provide additional contextual information.
-- **Calendar Table**: This table supports all **time intelligence** functions (e.g., month-on-month changes).
+- **Dimension Tables**: `people`, `Products`, `location`, and `Calendar` provide additional contextual information.
+- **Calendar Table**: This table also supports all **time intelligence** functions (e.g., month-on-month changes).
 
 [![Data Model](https://github.com/ehap23/Awesome-Chocolates-Sales-Analytics-project/blob/main/assets/Data%20model.png)](https://github.com/ehap23/Awesome-Chocolates-Sales-Analytics-project/blob/main/assets/Data%20model.png)
 
