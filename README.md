@@ -15,7 +15,8 @@ This project showcases my ability to:
 - Design interactive and visually compelling **Power BI dashboards**.
 - **Present business insights** to support data-driven decision-making.
 
-[![Dashboard Screenshot](assets/Chocolates Sales Analytics Dashboard.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNzA5Njg3Y2YtNDU1Zi00NTdlLTkxY2UtZjY2YTRiNWYyNTY3IiwidCI6IjY4MWUzZDU3LWI4YWUtNGZiZC1hODI2LTAyYmYwNzU5OWNjYiJ9&pageName=33c8d5119090eee8da0a) 
+[![Chocolates Sales Analytics Dashboard](https://github.com/ehap23/Awesome-Chocolates-Sales-Analytics-project/blob/main/assets/Chocolates%20Sales%20Analytics%20Dashboard.jpg)](https://app.powerbi.com/view?r=eyJrIjoiNzA5Njg3Y2YtNDU1Zi00NTdlLTkxY2UtZjY2YTRiNWYyNTY3IiwidCI6IjY4MWUzZDU3LWI4YWUtNGZiZC1hODI2LTAyYmYwNzU5OWNjYiJ9&pageName=33c8d5119090eee8da0a)
+
 *(Click the image to explore the interactive Power BI dashboard)*
 
 ---
