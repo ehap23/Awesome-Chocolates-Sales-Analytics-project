@@ -68,8 +68,6 @@ The dashboard also provides an in-depth analysis of product performance and ship
 
 The **Zoom Slider** is implemented in the histogram to let users focus on specific ranges of shipments dynamically.
 
-[![Interactive Trend Analysis Placeholder](#)](https://yourdashboardlink.com/trend-analysis)  
-*(Click the image to explore the interactive trend analysis feature)*
 
 ---
 
